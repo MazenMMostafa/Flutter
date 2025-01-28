@@ -6,7 +6,6 @@ Welcome to my **Flutter Odyssey**! 🌟 This repo is where I chronicle my glorio
 
 ## 🧭 What's in the Repo?
 
-- **`day_n` folders**: Each folder is a mini-saga where I take on a new challenge. Inside, you’ll find code, notes, and probably a few bad puns.
 - **My Achievements**: A growing collection of apps and widgets that will make you go, "Wow, that’s actually not bad!"
 - **My Fails**: Yes, I’m keeping those. Every great coder needs a cringe compilation.
 
