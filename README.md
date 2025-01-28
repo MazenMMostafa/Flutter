@@ -46,10 +46,4 @@ This is a solo learning journey for now, but hey, if you have memes, tips, or tr
 - Some code here is experimental. By "experimental," I mean it might set your computer on fire. 🔥
 - I am not responsible for any sudden urges to learn Flutter after seeing this repo.
 
----
-
-## 🌈 Let’s Flutter!
-
-Follow my journey as I navigate the world of Flutter, break things, and (hopefully) create something cool along the way. If you’re learning too, let’s share notes! And remember: every `pub get` is a step closer to greatness. 😇
-
 Happy Coding! 💻
